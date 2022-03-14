@@ -5,6 +5,7 @@
 ###  Binary-Search-Tree aşamalarını yazınız.
 
 root:7
+```
                     7
                   /  \
                  5    8
@@ -14,3 +15,4 @@ root:7
              0   3
                 /  \
                2     4
+```
